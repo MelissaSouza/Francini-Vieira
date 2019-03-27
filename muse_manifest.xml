@@ -1,0 +1,117 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.studiofrancinivieira.com.br" resolutions="1x" timestamp="1478267537340">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_b-mestre.css" crc="447963553" ref="micropuntura-em-estrias:serviços:curso-de-especialização-2°módulo:inscreva-se-cursos:micropigmentação:cursos:curso-tebori-microblading:promoções:galeria-de-fotos:despigmentação:curso-design-de-sobrancelhas:curso-de-micropuntura:linhas-de-expressões:workshop:localização:a-profissional:curso-de-micropigmentação-1°módulo:index:permanente-de-cílios:design-de-sobrancelhas:blog:alongamento-de-cílios"/>
+    <file name="micropuntura-em-estrias.css" crc="40623271" ref="micropuntura-em-estrias"/>
+    <file name="servi_os.css" crc="4181466638" ref="serviços"/>
+    <file name="curso-de-especializa__o-2_m_dulo.css" crc="178208406" ref="curso-de-especialização-2°módulo"/>
+    <file name="inscreva-se-cursos.css" crc="3871320281" ref="inscreva-se-cursos"/>
+    <file name="micropigmenta__o.css" crc="4024688990" ref="micropigmentação"/>
+    <file name="cursos.css" crc="4099337570" ref="cursos"/>
+    <file name="curso-tebori-microblading.css" crc="490901326" ref="curso-tebori-microblading"/>
+    <file name="promo__es.css" crc="230980244" ref="promoções"/>
+    <file name="galeria-de-fotos.css" crc="159779978" ref="galeria-de-fotos"/>
+    <file name="despigmenta__o.css" crc="4150416796" ref="despigmentação"/>
+    <file name="curso-design-de-sobrancelhas.css" crc="4006287290" ref="curso-design-de-sobrancelhas"/>
+    <file name="curso-de-micropuntura.css" crc="4037321829" ref="curso-de-micropuntura"/>
+    <file name="linhas-de-express_es.css" crc="3948878615" ref="linhas-de-expressões"/>
+    <file name="workshop.css" crc="3798866860" ref="workshop"/>
+    <file name="localiza__o.css" crc="4167112319" ref="localização"/>
+    <file name="a-profissional.css" crc="4185997801" ref="a-profissional"/>
+    <file name="curso-de-micropigmenta__o-1_m_dulo.css" crc="304529732" ref="curso-de-micropigmentação-1°módulo"/>
+    <file name="index.css" crc="4273335872" ref="index"/>
+    <file name="permanente-de-c_lios.css" crc="4006949567" ref="permanente-de-cílios"/>
+    <file name="design-de-sobrancelhas.css" crc="3975822295" ref="design-de-sobrancelhas"/>
+    <file name="blog.css" crc="214934662" ref="blog"/>
+    <file name="alongamento-de-c_lios.css" crc="404501395" ref="alongamento-de-cílios"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:cursos:serviços:a-profissional:workshop:promoções:alongamento-de-cílios:design-de-sobrancelhas:linhas-de-expressões:despigmentação:micropigmentação:micropuntura-em-estrias:permanente-de-cílios:curso-de-micropigmentação-1°módulo:curso-de-especialização-2°módulo:curso-design-de-sobrancelhas:curso-tebori-microblading:localização:blog:inscreva-se-cursos:curso-de-micropuntura:galeria-de-fotos"/>
+    <file name="museutils.js" crc="3851988764" ref="index:cursos:serviços:a-profissional:workshop:promoções:alongamento-de-cílios:design-de-sobrancelhas:linhas-de-expressões:despigmentação:micropigmentação:micropuntura-em-estrias:permanente-de-cílios:curso-de-micropigmentação-1°módulo:curso-de-especialização-2°módulo:curso-design-de-sobrancelhas:curso-tebori-microblading:localização:blog:inscreva-se-cursos:curso-de-micropuntura:galeria-de-fotos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:cursos:serviços:a-profissional:workshop:promoções:alongamento-de-cílios:design-de-sobrancelhas:linhas-de-expressões:despigmentação:micropigmentação:micropuntura-em-estrias:permanente-de-cílios:curso-de-micropigmentação-1°módulo:curso-de-especialização-2°módulo:curso-design-de-sobrancelhas:curso-tebori-microblading:localização:blog:inscreva-se-cursos:curso-de-micropuntura:galeria-de-fotos"/>
+    <file name="museconfig.js" crc="169177150" ref="index:cursos:serviços:a-profissional:workshop:promoções:alongamento-de-cílios:design-de-sobrancelhas:linhas-de-expressões:despigmentação:micropigmentação:micropuntura-em-estrias:permanente-de-cílios:curso-de-micropigmentação-1°módulo:curso-de-especialização-2°módulo:curso-design-de-sobrancelhas:curso-tebori-microblading:localização:blog:inscreva-se-cursos:curso-de-micropuntura:galeria-de-fotos"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:curso-de-micropigmentação-1°módulo"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:cursos:serviços:a-profissional:workshop:promoções:alongamento-de-cílios:design-de-sobrancelhas:linhas-de-expressões:despigmentação:micropigmentação:micropuntura-em-estrias:permanente-de-cílios:curso-de-micropigmentação-1°módulo:curso-de-especialização-2°módulo:curso-design-de-sobrancelhas:curso-tebori-microblading:localização:blog:inscreva-se-cursos:curso-de-micropuntura:galeria-de-fotos"/>
+    <file name="pie.js" crc="3831537696" ref="index:curso-de-micropigmentação-1°módulo"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:cursos:serviços:a-profissional:workshop:promoções:alongamento-de-cílios:design-de-sobrancelhas:linhas-de-expressões:despigmentação:micropigmentação:micropuntura-em-estrias:permanente-de-cílios:curso-de-micropigmentação-1°módulo:curso-de-especialização-2°módulo:curso-design-de-sobrancelhas:curso-tebori-microblading:localização:blog:inscreva-se-cursos:curso-de-micropuntura:galeria-de-fotos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:cursos:serviços:a-profissional:workshop:promoções:alongamento-de-cílios:design-de-sobrancelhas:linhas-de-expressões:despigmentação:micropigmentação:micropuntura-em-estrias:permanente-de-cílios:curso-de-micropigmentação-1°módulo:curso-de-especialização-2°módulo:curso-design-de-sobrancelhas:curso-tebori-microblading:localização:blog:inscreva-se-cursos:curso-de-micropuntura:galeria-de-fotos"/>
+    <file name="require.js" crc="4108833657" ref="index:cursos:serviços:a-profissional:workshop:promoções:alongamento-de-cílios:design-de-sobrancelhas:linhas-de-expressões:despigmentação:micropigmentação:micropuntura-em-estrias:permanente-de-cílios:curso-de-micropigmentação-1°módulo:curso-de-especialização-2°módulo:curso-design-de-sobrancelhas:curso-tebori-microblading:localização:blog:inscreva-se-cursos:curso-de-micropuntura:galeria-de-fotos"/>
+  </folder>
+  <folder name="images">
+    <file name="banner - francini.png" crc="82676039" ref="index:curso-de-micropigmentação-1°módulo"/>
+    <file name="capa.png" crc="35423274" seo="true" ref="index:cursos:serviços:a-profissional:workshop:promoções:alongamento-de-cílios:design-de-sobrancelhas:linhas-de-expressões:despigmentação:micropigmentação:micropuntura-em-estrias:permanente-de-cílios:curso-de-micropigmentação-1°módulo:curso-de-especialização-2°módulo:curso-design-de-sobrancelhas:curso-tebori-microblading:localização:blog:inscreva-se-cursos:curso-de-micropuntura:galeria-de-fotos"/>
+    <file name="maps4.png" crc="4193570354" seo="true" ref="index:cursos:serviços:a-profissional:workshop:promoções:alongamento-de-cílios:design-de-sobrancelhas:linhas-de-expressões:despigmentação:micropigmentação:micropuntura-em-estrias:permanente-de-cílios:curso-de-micropigmentação-1°módulo:curso-de-especialização-2°módulo:curso-design-de-sobrancelhas:curso-tebori-microblading:localização:blog:inscreva-se-cursos:curso-de-micropuntura:galeria-de-fotos"/>
+    <file name="wpp.png" crc="137628354" seo="true" ref="index:cursos:serviços:a-profissional:workshop:promoções:alongamento-de-cílios:design-de-sobrancelhas:linhas-de-expressões:despigmentação:micropigmentação:micropuntura-em-estrias:permanente-de-cílios:curso-de-micropigmentação-1°módulo:curso-de-especialização-2°módulo:curso-design-de-sobrancelhas:curso-tebori-microblading:localização:blog:inscreva-se-cursos:curso-de-micropuntura:galeria-de-fotos"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:curso-de-micropigmentação-1°módulo"/>
+    <file name="alongamento de cilios.jpg" crc="4118214271" seo="true" ref="index:serviços"/>
+    <file name="1333934534036.jpg" crc="104312159" seo="true" ref="index:serviços"/>
+    <file name="tratamento de linhas de expressoes.jpg" crc="3868540888" seo="true" ref="index:serviços"/>
+    <file name="7b16fb0c-c3c8-413f-ad80-550d119f266f187x144.jpg" crc="285026114" seo="true" ref="index"/>
+    <file name="11947652_1617346768547453_6480909410542478731_n.jpg" crc="360206607" seo="true" ref="index:serviços"/>
+    <file name="micropuntura em estrias.jpg" crc="56268036" seo="true" ref="index:serviços"/>
+    <file name="permanente de cilios.jpg" crc="3762991978" seo="true" ref="index:serviços"/>
+    <file name="75a86-micropigmentacao.jpg" crc="136035567" seo="true" ref="index:cursos"/>
+    <file name="012515013611643.jpg" crc="3955391899" seo="true" ref="index:cursos"/>
+    <file name="curso-de-designer-de-sobrancelha-600x344.jpg" crc="375689684" seo="true" ref="index:cursos"/>
+    <file name="604616086398141.jpg" crc="3924641981" seo="true" ref="index:cursos"/>
+    <file name="micropuntura de estrias.jpg" crc="4222634973" seo="true" ref="index:cursos"/>
+    <file name="eyebrow-transplant.jpg" crc="77622495" seo="true" ref="serviços"/>
+    <file name="francini.jpg" crc="71054829" seo="true" ref="a-profissional"/>
+    <file name="bottom-fran.png" crc="3906583868" seo="true" ref="a-profissional"/>
+    <file name="2014-07-06.jpg" crc="4206101645" seo="true" ref="a-profissional"/>
+    <file name="combo1.jpg" crc="272985831" seo="true" ref="promoções"/>
+    <file name="combo2.jpg" crc="4244112328" seo="true" ref="promoções"/>
+    <file name="combo3.jpg" crc="62835661" seo="true" ref="promoções"/>
+    <file name="combo4.jpg" crc="3761807415" seo="true" ref="promoções"/>
+    <file name="alongamento de cilios2.jpg" crc="4111919512" seo="true" ref="alongamento-de-cílios"/>
+    <file name="design1.jpg" crc="3827163797" seo="true" ref="design-de-sobrancelhas"/>
+    <file name="micropuntura 2.jpg" crc="4140185136" seo="true" ref="linhas-de-expressões"/>
+    <file name="7b16fb0c-c3c8-413f-ad80-550d119f266f.jpg" crc="199436125" seo="true" ref="despigmentação"/>
+    <file name="a4428d8d-20d4-4a9f-9bc2-56b9c257415e.jpg" crc="84445591" seo="true" ref="despigmentação"/>
+    <file name="2beea9c2-4a3d-423e-b6be-9b90be78c3a5.jpg" crc="388103031" seo="true" ref="despigmentação"/>
+    <file name="170e35ed-0bd3-4798-b435-93479e0bb023.jpg" crc="354366647" seo="true" ref="despigmentação"/>
+    <file name="9cec1cab-06df-42de-bacf-ba5dd4b6acfb.jpg" crc="3828115421" seo="true" ref="despigmentação"/>
+    <file name="1b4384d3-01e3-47a1-bc24-7dd7eb0e1684.jpg" crc="458983803" seo="true" ref="despigmentação"/>
+    <file name="micropigmenta-º-úo.jpg" crc="4260208732" seo="true" ref="micropigmentação"/>
+    <file name="micropigmenta-º-úo ombre.jpg" crc="4192019763" seo="true" ref="micropigmentação"/>
+    <file name="contorno de boca 2.jpg" crc="163658369" seo="true" ref="micropigmentação"/>
+    <file name="micropuntura de estrias2.jpg" crc="3850095583" seo="true" ref="micropuntura-em-estrias"/>
+    <file name="permanente-de-cilios 2.jpg" crc="4023849084" seo="true" ref="permanente-de-cílios"/>
+    <file name="imagem 1.png" crc="4252973507" seo="true" ref="galeria-de-fotos"/>
+    <file name="imagem 2.png" crc="329289976" seo="true" ref="galeria-de-fotos"/>
+    <file name="imagem 3.png" crc="533777988" seo="true" ref="galeria-de-fotos"/>
+    <file name="imagem 4.png" crc="3804693550" seo="true" ref="galeria-de-fotos"/>
+    <file name="imagem 5.jpg" crc="66478218" seo="true" ref="galeria-de-fotos"/>
+    <file name="imagem 6.png" crc="4543973" seo="true" ref="galeria-de-fotos"/>
+    <file name="imagem 7.png" crc="250123307" seo="true" ref="galeria-de-fotos"/>
+    <file name="imagem 8.png" crc="277073741" seo="true" ref="galeria-de-fotos"/>
+    <file name="imagem 9.jpg" crc="3941736762" seo="true" ref="galeria-de-fotos"/>
+    <file name="imagem 10.jpg" crc="237730610" seo="true" ref="galeria-de-fotos"/>
+    <file name="imagem 11.jpg" crc="72509771" seo="true" ref="galeria-de-fotos"/>
+    <file name="imagem 12.jpg" crc="3778454569" seo="true" ref="galeria-de-fotos"/>
+    <file name="imagem 13.jpg" crc="3825779517" seo="true" ref="galeria-de-fotos"/>
+    <file name="imagem 14.jpg" crc="3839613324" seo="true" ref="galeria-de-fotos"/>
+  </folder>
+  <file name="index.html" crc="3915015384" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="cursos.html" crc="12516296" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="serviços.html" crc="484085049" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="a-profissional.html" crc="295201467" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="workshop.html" crc="103802983" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="promoções.html" crc="4231558268" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="alongamento-de-cílios.html" crc="304567309" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="design-de-sobrancelhas.html" crc="3887487328" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="linhas-de-expressões.html" crc="4229619829" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="despigmentação.html" crc="38512016" seo="true" mt="1478027801147" redirect="true"/>
+  <file name="micropigmentação.html" crc="47952198" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="micropuntura-em-estrias.html" crc="3776920536" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="permanente-de-cílios.html" crc="217138020" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="curso-de-micropigmentação-1°módulo.html" crc="4085614871" seo="true" mt="1478266714061" redirect="true"/>
+  <file name="curso-de-especialização-2°módulo.html" crc="4026185273" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="curso-design-de-sobrancelhas.html" crc="4010094806" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="curso-tebori-microblading.html" crc="508176632" seo="true" mt="1478266960226" redirect="true"/>
+  <file name="localização.html" crc="4037570829" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="blog.html" crc="319363195" seo="true" mt="1478266443335" redirect="true"/>
+  <file name="inscreva-se-cursos.html" crc="484504738" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="curso-de-micropuntura.html" crc="374481058" seo="true" mt="1478027661274" redirect="true"/>
+  <file name="galeria-de-fotos.html" crc="4261099774" seo="true" mt="1478027661274" redirect="true"/>
+</manifest>
